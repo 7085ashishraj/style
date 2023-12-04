@@ -1,0 +1,250 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color: rgba(128, 128, 128, 0.769); */
+    /* background-color: rgba(0, 255, 255, 0.699); */
+    background-color: rgba(128, 128, 128, 0.637);
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+.details {
+    text-align: center;
+    color:black;
+    background-color: white;
+
+}
+
+section {
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666666;
+    /* text-justify: auto; */
+}
+/* .p {
+    text-justify: auto;
+} */
+
+.book {
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* .main-div {
+    /* float:left; */
+.second {
+    /* background-color: aquamarine; */
+    background-color: rgba(128, 128, 128, 0.637);
+
+} 
+
+
+.row {
+    width: auto;
+    min-height: 16cm;
+    /* background-color: #66666653; */
+    background-color: white;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
+.col1 {
+    width: 9cm;
+    min-height: 12cm;
+    background-color: #66666641;
+    float: left;
+    margin-left: 2cm;
+    margin-top: 2cm;
+
+
+}
+.col2 {
+    width: 9cm;
+    min-height: 12cm;
+    background-color: #66666641;
+    float: left;
+    margin-left: 2cm;
+    margin-top: 2cm;
+}
+.col3 {
+    width: 9cm;
+    min-height: 12cm;
+    background-color: #66666641;
+    float: left;
+    margin-left: 2cm;
+    margin-top: 2cm;
+
+}
+
+/* .col1:nth-child(2) {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.col2:nth-child(3) {
+    margin-left: 5%;
+}
+ .div1 {
+    background-color: aqua;
+ } */
+
+ .img1 {
+    margin-left: 30px;
+    margin-top: 10px;
+ }
+
+ .plu {
+    text-align: center;
+    font-weight: 3cm;
+    font-size: 25px;
+    margin-top: 10px;
+
+ }
+
+.li1 {
+    margin-left: 10px;
+ }
+
+button {
+    width: 3cm;
+    margin-left: 3cm;
+    height: 2cm;
+    background-color: #666666;
+    color: white;
+}
+.button9 {
+    background-color: red;
+}
+
+.rom {
+    background-color: antiquewhite;
+    text-align: center;
+    height: 2cm;
+    font-size: 50px;
+    margin-top: 20px;
+    width: auto;
+    /* margin-left: 5cm;
+    margin-right: 5cm; */
+}
+
+.row1 {
+    height: 7cm;
+    width: 31cm;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 100px;
+    border-style:dotted;
+
+}
+
+.row2 {
+    height: 7cm;
+    width: 31cm;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 100px;
+    border-style:dotted;
+}
+
+.row3 {
+    height: 7cm;
+    width: 31cm;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 100px;
+    border-style:dotted;
+}
+
+.row4 {
+    height: 7cm;
+    width: 31cm;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 100px;
+    border-style:dotted;
+}
+
+.service {
+    
+    height: 7cm;
+}
+
+.work {
+    float: right;
+    margin-right: 9cm;
+    /* color: aqua; */
+    font-style: italic;
+}
+
+.prise {
+    float: right;
+    margin-right: 8cm;
+    font-style: italic;
+
+}
+
+.cost {
+    color:gray;
+    font-size: 20px;
+}
+.cost:hover {
+    color: orangered;
+}
+
+.number:hover {
+    color:aqua;
+    
+}
+.number {
+    font-style: italic;
+    height: 1cm;
+}
+
+.my-button {
+    background-color: yellowgreen;
+    width: 7cm;
+    height: 20px;
+    /* margin-right: 5cm; */
+    float: right;
+    margin-bottom: 20px;
+}
+
+.a:hover {
+    color: aqua;
+}
+.a {
+    color: white;
+}
+
+.coming {
+    color:red;
+    text-align: center;
+    font-size: 2cm;
+}
+.contact:hover {
+    color: red;
+}
+
+.contact {
+    color: black;
+}
